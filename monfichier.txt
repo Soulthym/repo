@@ -1,2 +1,3 @@
 Bonjour ! 
 Je suis un fichier ! 
+Et moi je merge
